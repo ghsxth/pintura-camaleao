@@ -1,1 +1,1 @@
-# pintura-camaleao
+# SCRIPT DE PINTURA CAMALEÃO
